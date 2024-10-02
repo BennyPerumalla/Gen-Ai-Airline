@@ -1,0 +1,12 @@
+AI-Personalization-Platform/
+│
+├── data/
+│   ├── passenger_profiles.csv
+│   ├── booking_history.csv
+│   └── flight_info.csv
+│
+├── src/
+│   ├── main.py
+│   └── requirements.txt
+│
+└── README.md
